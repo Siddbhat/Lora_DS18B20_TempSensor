@@ -1,0 +1,4 @@
+../Application/User/LoRaWAN/App/DS18B20_Sensor.c:47:9:DS18B20_Start	2
+../Application/User/LoRaWAN/App/DS18B20_Sensor.c:67:6:DS18B20_Write	3
+../Application/User/LoRaWAN/App/DS18B20_Sensor.c:94:9:DS18B20_Read	3
+../Application/User/LoRaWAN/App/DS18B20_Sensor.c:20:10:DS18B20_Get_Value	1

@@ -1,0 +1,2 @@
+../Application/User/LoRaWAN/App/MQ6_Sensor.c:21:10:My_ADC_ReadChannels	32	static
+../Application/User/LoRaWAN/App/MQ6_Sensor.c:13:9:MQ6_sensor	8	static

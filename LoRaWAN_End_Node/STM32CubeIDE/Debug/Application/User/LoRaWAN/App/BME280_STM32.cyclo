@@ -1,0 +1,9 @@
+../Application/User/LoRaWAN/App/BME280_STM32.c:59:6:TrimRead	1
+../Application/User/LoRaWAN/App/BME280_STM32.c:108:5:BME280_Config	8
+../Application/User/LoRaWAN/App/BME280_STM32.c:51:6:BME_280_Init	1
+../Application/User/LoRaWAN/App/BME280_STM32.c:173:5:BMEReadRaw	2
+../Application/User/LoRaWAN/App/BME280_STM32.c:202:6:BME280_WakeUP	1
+../Application/User/LoRaWAN/App/BME280_STM32.c:224:9:BME280_compensate_T_int32	1
+../Application/User/LoRaWAN/App/BME280_STM32.c:239:10:BME280_compensate_P_int64	2
+../Application/User/LoRaWAN/App/BME280_STM32.c:295:10:bme280_compensate_H_int32	1
+../Application/User/LoRaWAN/App/BME280_STM32.c:316:5:BME280_Measure	5

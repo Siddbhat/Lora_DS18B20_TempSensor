@@ -1,0 +1,14 @@
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:524:13:OnTxTimerLedEvent	0	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:529:13:OnRxTimerLedEvent	0	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:541:13:OnTxData	24	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:509:13:OnTxTimerEvent	8	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:598:13:OnMacProcessNotify	8	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:570:13:OnJoinRequest	8	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:534:13:OnJoinTimerLedEvent	8	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:227:6:Flash_Write_Data	32	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:247:9:Flash_Read_Data	0	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:356:13:OnRxData	40	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:254:6:LoRaWAN_Init	48	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:336:6:HAL_GPIO_EXTI_Callback	8	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:610:15:Get_class	0	static
+C:/Users/prath/STM32CubeIDE/workspace_1.13.0/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:430:13:SendTxData	32	static
